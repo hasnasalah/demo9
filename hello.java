@@ -56,7 +56,7 @@ public class Receipt {
 	    System.out.println("\t\t\t\t\t\t\t\t\t\t\tTotal:\t$"+result);
 	    
 	    
-	    System.out.println(" hello world \n heelo again");
+	    System.out.println(" Terms:");
 	    
 	    
 	    
